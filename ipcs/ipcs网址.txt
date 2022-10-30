@@ -1,0 +1,5 @@
+【C++服务器入门基础------6.IPC进程间通信--共享内存】
+https://blog.csdn.net/qq_39583373/article/details/123119591
+
+C++跨平台(三)：进程间通讯(IPC)的技术选型
+https://blog.csdn.net/CodeBowl/article/details/121301824
